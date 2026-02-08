@@ -1,14 +1,6 @@
-# robots.txt for https://www.tanjc.com
+# robots.txt for https://tanjc.com
 
 User-agent: *
 Allow: /
 
-# Sitemap location
-Sitemap: https://www.tanjc.com/sitemap.xml
-
-# Crawl delay (optional)
-Crawl-delay: 0
-
-# Disallow development and build files
-Disallow: /_next/
-Disallow: /api/
+Sitemap: https://tanjc.com/sitemap.xml
