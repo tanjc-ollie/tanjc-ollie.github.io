@@ -1,6 +1,7 @@
-# robots.txt for https://tanjc.com
-
-User-agent: *
-Allow: /
-
-Sitemap: https://tanjc.com/sitemap.xml
+# robots.txt for https://tanjc.com  
+  
+User-agent: *  
+Allow: /  
+  
+Host: https://tanjc.com  
+Sitemap: https://tanjc.com/sitemap.xml  
